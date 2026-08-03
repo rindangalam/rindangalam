@@ -44,9 +44,9 @@ $ ./status.sh
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=light" />
-    <img alt="tech stack" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Cpython%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Cpython%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=light" />
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Cpython%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=dark" />
   </picture>
 </p>
 
