@@ -36,7 +36,7 @@ Saya membangun aplikasi web yang cepat dan terukur — dari UI yang responsif hi
 $ whoami
 > Rindang Alam Nur Muhammad
 > Fullstack Developer dari Padang Pariaman, Indonesia
-> 3+ tahun membangun aplikasi web
+> Software Engineer
 
 $ cat focus.txt
 > Membangun UI responsif dengan React & Next.js
