@@ -4,8 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration#gh-dark-mode-only" alt="typing" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=0b8f2e&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration#gh-light-mode-only" alt="typing" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=0b8f2e&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration" />
+    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration" />
+  </picture>
 </p>
 
 ---
@@ -40,22 +43,34 @@ $ ./status.sh
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=dark#gh-dark-mode-only" alt="tech stack" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=light#gh-light-mode-only" alt="tech stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=light" />
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,nodejs,python,postgres,redis,supabase,docker,vercel,githubactions&theme=dark" />
+  </picture>
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en#gh-dark-mode-only" alt="stats" />
-  <img src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=ffffff&title_color=0b8f2e&text_color=1a7a3a&icon_color=0b8f2e&border_color=0b8f2e&locale=en#gh-light-mode-only" alt="stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=0b0b0b&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=7fff9e&sideNums=7fff9e&currStreakLabel=00ff41&sideLabels=00ff41&dates=00cc66#gh-dark-mode-only" alt="streak" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=ffffff&border=0b8f2e&ring=0b8f2e&fire=0b8f2e&currStreakNum=1a7a3a&sideNums=1a7a3a&currStreakLabel=0b8f2e&sideLabels=0b8f2e&dates=0b8f2e#gh-light-mode-only" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=ffffff&title_color=0b8f2e&text_color=1a7a3a&icon_color=0b8f2e&border_color=0b8f2e&locale=en" />
+    <img alt="stats" src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=0b0b0b&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=7fff9e&sideNums=7fff9e&currStreakLabel=00ff41&sideLabels=00ff41&dates=00cc66" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=ffffff&border=0b8f2e&ring=0b8f2e&fire=0b8f2e&currStreakNum=1a7a3a&sideNums=1a7a3a&currStreakLabel=0b8f2e&sideLabels=0b8f2e&dates=0b8f2e" />
+    <img alt="streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=0b0b0b&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=7fff9e&sideNums=7fff9e&currStreakLabel=00ff41&sideLabels=00ff41&dates=00cc66" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en#gh-dark-mode-only" alt="top languages" />
-  <img src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=ffffff&title_color=0b8f2e&text_color=1a7a3a&icon_color=0b8f2e&border_color=0b8f2e&locale=en#gh-light-mode-only" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=ffffff&title_color=0b8f2e&text_color=1a7a3a&icon_color=0b8f2e&border_color=0b8f2e&locale=en" />
+    <img alt="top languages" src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" />
+  </picture>
 </p>
 
 ## Featured Projects
