@@ -1,4 +1,4 @@
-<!-- profile-readme v3 -->
+<!-- profile-readme v4 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=220&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=34&fontColor=0b0b0b&fontAlignY=45&animation=twinkling" alt="header" />
 </p>
@@ -9,6 +9,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=0b8f2e&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration" />
     <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+systems+that+connect+things;Open+for+collaboration" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20In%3A%20Padang%20Pariaman%2C%20Indonesia-0b0b0b?style=for-the-badge&logo=googlemaps&logoColor=00ff41" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work%3A%20Freelance-0b0b0b?style=for-the-badge&logo=briefcase&logoColor=00ff41" alt="open to work" />
 </p>
 
 ---
@@ -24,6 +29,8 @@
 </p>
 
 ## About Me
+
+I build fast, scalable web applications — from responsive UIs to robust APIs.
 
 ```txt
 $ whoami
@@ -73,22 +80,31 @@ $ ./status.sh
   </picture>
 </p>
 
+## Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rindangalam&bg_color=0b0b0b&color=00ff41&line=00ff41&point=7fff9e&area=true&area_color=00ff41&border_color=00ff41&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rindangalam&bg_color=ffffff&color=0b8f2e&line=0b8f2e&point=1a7a3a&area=true&area_color=0b8f2e&border_color=0b8f2e&hide_border=true" />
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rindangalam&bg_color=0b0b0b&color=00ff41&line=00ff41&point=7fff9e&area=true&area_color=00ff41&border_color=00ff41&hide_border=true" />
+  </picture>
+</p>
+
 ## Featured Projects
 
 ### Highlights
 
-**AW Cash** - Web App offline untuk mengatur keuangan dengan input manual
-`Vite.js` `PWA` `React` — [Repo](https://github.com/rindangalam/aw_cash) · [Live Demo](https://aw-cash.vercel.app/)
-
-**Rindang-Alam-Resume** - Website Portofolio, landing page
-`HTML` — [Repo](https://github.com/rindangalam/Rindang-Alam-Resume)
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **AW Cash** | Web app offline untuk mengatur keuangan dengan input manual | `Vite` · `PWA` · `React` | [Repo](https://github.com/rindangalam/aw_cash) · [Live Demo](https://aw-cash.vercel.app/) |
+| **Rindang-Alam-Resume** | Website portofolio, landing page | `HTML` | [Repo](https://github.com/rindangalam/Rindang-Alam-Resume) |
 
 ### More Projects
 
-- [OtoRent](https://github.com/rindangalam/OtoRent) - `Blade`
-- [crypto-dashboard](https://github.com/rindangalam/crypto-dashboard) - `Blade`
-- [portfolio-ajo](https://github.com/rindangalam/portfolio-ajo) - `TypeScript`
-- [GIS_Kos_Padang_Random_Forest](https://github.com/rindangalam/GIS_Kos_Padang_Random_Forest) - `PHP`
+- **OtoRent** — `Blade` — [Repo](https://github.com/rindangalam/OtoRent)
+- **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
+- **portfolio-ajo** — `TypeScript` — [Repo](https://github.com/rindangalam/portfolio-ajo)
+- **GIS_Kos_Padang_Random_Forest** — `PHP` — [Repo](https://github.com/rindangalam/GIS_Kos_Padang_Random_Forest)
 
 ## Contribution Snake
 
