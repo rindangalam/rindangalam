@@ -45,12 +45,12 @@ $ ./status.sh
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rindangalam&show_icons=true&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" alt="stats" />
-  <img src="https://streak-stats.demolab.com/?user=rindangalam&background=0b0b0b&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=7fff9e&sideNums=7fff9e&currStreakLabel=00ff41&sideLabels=00ff41&dates=00cc66" alt="streak" />
+  <img src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" alt="stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rindangalam&background=0b0b0b&border=00ff41&ring=00ff41&fire=00ff41&currStreakNum=7fff9e&sideNums=7fff9e&currStreakLabel=00ff41&sideLabels=00ff41&dates=00cc66" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" alt="top languages" />
+  <img src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=compact&bg_color=0b0b0b&title_color=00ff41&text_color=7fff9e&icon_color=00ff41&border_color=00ff41&locale=en" alt="top languages" />
 </p>
 
 ## Featured Projects
