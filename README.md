@@ -78,8 +78,11 @@ $ ./status.sh
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/rindangalam/rindangalam/blob/output/github-contribution-grid-snake-dark.svg?raw=true#gh-dark-mode-only" alt="snake" />
-  <img src="https://github.com/rindangalam/rindangalam/blob/output/github-contribution-grid-snake.svg?raw=true#gh-light-mode-only" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rindangalam/rindangalam/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rindangalam/rindangalam/blob/output/github-contribution-grid-snake.svg?raw=true" />
+    <img alt="snake" src="https://github.com/rindangalam/rindangalam/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  </picture>
 </p>
 
 <p align="center">
