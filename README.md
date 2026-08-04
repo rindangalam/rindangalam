@@ -30,19 +30,23 @@
 
 ## Tentang Saya
 
-Saya belajar paling cepat dengan cara membangun sesuatu, jadi hampir semua yang ada di profil ini adalah hasil eksperimen pribadi — sebagian dipakai sendiri, sebagian sekadar belajar.
-
-Keseharian saya: mengembangkan sistem informasi kampus dengan **Laravel**. Sambil itu, mulai belajar menerapkan **AI** di aplikasi web.
+<p align="center">
+  Saya sedang dalam perjalanan menjadi software engineer — sebuah proses yang saya jalani dengan cara membangun. Prinsip saya sederhana: cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi di profil ini adalah eksperimen pribadi; sebagian saya pakai sendiri, sebagian sekadar untuk belajar.
+  <br/><br/>
+  Belakangan ini saya banyak berkutat dengan <b>Laravel, Next.js, React, dan TypeScript</b>, dan mulai belajar menggabungkan <b>Artificial Intelligence</b> dengan pengembangan web. Saya juga tertarik pada bagaimana sebuah sistem dirancang — bagaimana setiap bagian saling terhubung, dan bagaimana aplikasi tetap mudah dipelihara seiring kebutuhan yang terus bertambah.
+</p>
 
 ## Pengalaman
 
-**Programmer PSDM IT — Universitas Adzkia** · Juni 2026 — sekarang
-
-Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampus, dari mendengarkan kebutuhan pengguna, merancang database, menulis fitur, sampai deployment. Stack utama: Laravel, PHP, MySQL, JavaScript.
+<p align="center">
+  Sejak Juni 2026, saya bekerja sebagai <b>Programmer PSDM IT di Universitas Adzkia</b>, mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan digital kampus. Saya menangani prosesnya dari awal sampai akhir — pengumpulan kebutuhan pengguna, perancangan database, implementasi fitur, pengujian, hingga deployment — menggunakan <b>Laravel, PHP, MySQL, JavaScript, dan REST API</b>. Termasuk membangun modul baru, mengoptimasi sistem yang berjalan, dan memperbaiki masalah teknis berdasarkan kebutuhan pengguna.
+</p>
 
 ## Pendidikan
 
-**Informatika** — Universitas Adzkia
+<p align="center">
+  Saya menempuh pendidikan di bidang <b>Informatika di Universitas Adzkia</b> — tempat fondasi dan ruang praktik untuk pengembangan yang saya kerjakan sekarang.
+</p>
 
 ## Tech Stack
 
