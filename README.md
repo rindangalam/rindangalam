@@ -1,4 +1,4 @@
-<!-- profile-readme v7 -->
+<!-- profile-readme v6 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d987&height=220&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=34&fontColor=0b0b0b&fontAlignY=45&animation=twinkling" alt="header" />
 </p>
@@ -18,9 +18,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hubungi%20Saya-0b0b0b?style=for-the-badge&logo=gmail&logoColor=00d987" alt="Hubungi Saya" />
-</p>
+## Hubungi Saya
 
 <p align="center">
   <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=00d987" alt="GitHub" /></a>
@@ -30,31 +28,23 @@
   <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tentang%20Saya-0b0b0b?style=for-the-badge&logo=github&logoColor=00d987" alt="Tentang Saya" />
-</p>
+## Tentang Saya
 
-Saya belajar paling cepat dengan cara membangun sesuatu. Hampir semua repositori di profil ini adalah hasil eksperimen — sebagian saya pakai sendiri, sebagian sekadar belajar.
+Saya belajar paling cepat dengan cara membangun sesuatu, jadi hampir semua yang ada di profil ini adalah hasil eksperimen pribadi — sebagian dipakai sendiri, sebagian sekadar belajar.
 
-Keseharian saya: mengembangkan sistem informasi kampus dengan **Laravel**. Di sela itu, mulai belajar menerapkan **AI** di aplikasi web.
+Keseharian saya: mengembangkan sistem informasi kampus dengan **Laravel**. Sambil itu, mulai belajar menerapkan **AI** di aplikasi web.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pengalaman-0b0b0b?style=for-the-badge&logo=rocket&logoColor=00d987" alt="Pengalaman" />
-</p>
+## Pengalaman
 
-**Programmer PSDM IT — Universitas Adzkia** — Juni 2026 sampai sekarang
+**Programmer PSDM IT — Universitas Adzkia** · Juni 2026 — sekarang
 
 Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampus, dari mendengarkan kebutuhan pengguna, merancang database, menulis fitur, sampai deployment. Stack utama: Laravel, PHP, MySQL, JavaScript.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pendidikan-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Pendidikan" />
-</p>
+## Pendidikan
 
 **Informatika** — Universitas Adzkia
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-0b0b0b?style=for-the-badge&logo=npm&logoColor=00d987" alt="Tech Stack" />
-</p>
+## Tech Stack
 
 <p align="center">
   <picture>
@@ -64,9 +54,7 @@ Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampu
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Statistik%20GitHub-0b0b0b?style=for-the-badge&logo=git&logoColor=00d987" alt="Statistik GitHub" />
-</p>
+## Statistik GitHub
 
 <p align="center">
   <picture>
@@ -89,9 +77,7 @@ Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampu
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Grafik%20Aktivitas-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Grafik Aktivitas" />
-</p>
+## Grafik Aktivitas
 
 <p align="center">
   <picture>
@@ -101,9 +87,7 @@ Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampu
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Proyek%20Unggulan-0b0b0b?style=for-the-badge&logo=stackoverflow&logoColor=00d987" alt="Proyek Unggulan" />
-</p>
+## Proyek Unggulan
 
 | Proyek | Deskripsi | Teknologi | Tautan |
 | :--- | :--- | :--- | :--- |
@@ -119,9 +103,7 @@ Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampu
 - **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
 - **portfolio-ajo** — `TypeScript` — [Repo](https://github.com/rindangalam/portfolio-ajo)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ular%20Kontribusi-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Ular Kontribusi" />
-</p>
+## Ular Kontribusi
 
 <p align="center">
   <picture>
@@ -135,9 +117,7 @@ Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampu
   <img src="https://komarev.com/ghpvc/?username=rindangalam&color=00d987&style=for-the-badge&label=PENGUNJUNG" alt="pengunjung" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mari%20Berkolaborasi-0b0b0b?style=for-the-badge&logo=telegram&logoColor=00d987" alt="Mari Berkolaborasi" />
-</p>
+## Mari Berkolaborasi
 
 Punya proyek atau ide yang ingin diwujudkan? Saya terbuka untuk berdiskusi, belajar bareng, dan mengerjakan proyek bersama.
 
