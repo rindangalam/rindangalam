@@ -1,13 +1,13 @@
-<!-- profile-readme v6 -->
+<!-- profile-readme v7 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d987&height=220&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=34&fontColor=0b0b0b&fontAlignY=45&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript;Membangun%20aplikasi%20untuk%20memahami%20teknologi;Eksplorasi%20AI%20untuk%20pengembangan%20web" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript;Membangun%20aplikasi%20untuk%20memahami%20teknologi;Eksplorasi%20AI%20untuk%20pengembangan%20web" />
-    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript;Membangun%20aplikasi%20untuk%20memahami%20teknologi;Eksplorasi%20AI%20untuk%20pengembangan%20web" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
+    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
   </picture>
 </p>
 
@@ -18,7 +18,9 @@
 
 ---
 
-## Hubungi Saya
+<p align="center">
+  <img src="https://img.shields.io/badge/Hubungi%20Saya-0b0b0b?style=for-the-badge&logo=gmail&logoColor=00d987" alt="Hubungi Saya" />
+</p>
 
 <p align="center">
   <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=00d987" alt="GitHub" /></a>
@@ -28,59 +30,31 @@
   <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
 </p>
 
-## Tentang Saya
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/rindangalam.png" alt="Rindang Alam Nur Muhammad" width="150" />
-      <br/>
-      <sub><b>Rindang Alam Nur Muhammad</b></sub>
-    </td>
-    <td>
-      Saya seorang software engineer yang percaya cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi yang saya buat adalah hasil dari proses belajar — menguji teknologi baru dan mendokumentasikan perjalanan saya sebagai developer.
-
-      Saat ini saya fokus pada pengembangan aplikasi web dengan <b>Laravel, Next.js, dan React</b>, serta mulai mendalami <b>AI untuk pengembangan web</b>.
-    </td>
-  </tr>
-</table>
-
-## Pengalaman
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Juni%202026%20%E2%80%94%20Sekarang-0b0b0b?style=for-the-badge" alt="Juni 2026 - sekarang" />
-    </td>
-    <td>
-      <b>Programmer PSDM IT — Universitas Adzkia</b><br/>
-      Mengembangkan dan melakukan maintenance sistem informasi berbasis web untuk kebutuhan digital di lingkungan kampus. Terlibat dalam seluruh siklus kehidupan aplikasi — dari pengumpulan kebutuhan pengguna, desain database, implementasi fitur, pengujian, hingga deployment. Fokus pada Laravel, PHP, MySQL, JavaScript, dan REST API, termasuk membangun modul baru, mengoptimasi sistem yang berjalan, dan memperbaiki masalah teknis berdasarkan kebutuhan pengguna.
-    </td>
-  </tr>
-</table>
-
-## Pendidikan
-
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <img src="https://img.shields.io/badge/Informatika-0b0b0b?style=for-the-badge" alt="Informatika" />
-    </td>
-    <td>
-      <b>Universitas Adzkia</b>
-    </td>
-  </tr>
-</table>
-
-## Saat Ini
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Mendalami%20Laravel-0b0b0b?style=for-the-badge&logo=laravel&logoColor=00d987" alt="Mendalami Laravel" />
-  <img src="https://img.shields.io/badge/Eksplorasi%20AI%20untuk%20Web-0b0b0b?style=for-the-badge&logo=openai&logoColor=00d987" alt="Eksplorasi AI" />
-  <img src="https://img.shields.io/badge/Fokus%20Desain%20Sistem%20%26%20Kode%20Rapih-0b0b0b?style=for-the-badge&logo=codefactor&logoColor=00d987" alt="Fokus desain sistem" />
+  <img src="https://img.shields.io/badge/Tentang%20Saya-0b0b0b?style=for-the-badge&logo=github&logoColor=00d987" alt="Tentang Saya" />
 </p>
 
-## Tech Stack
+Saya belajar paling cepat dengan cara membangun sesuatu. Hampir semua repositori di profil ini adalah hasil eksperimen — sebagian saya pakai sendiri, sebagian sekadar belajar.
+
+Keseharian saya: mengembangkan sistem informasi kampus dengan **Laravel**. Di sela itu, mulai belajar menerapkan **AI** di aplikasi web.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pengalaman-0b0b0b?style=for-the-badge&logo=rocket&logoColor=00d987" alt="Pengalaman" />
+</p>
+
+**Programmer PSDM IT — Universitas Adzkia** — Juni 2026 sampai sekarang
+
+Mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan kampus, dari mendengarkan kebutuhan pengguna, merancang database, menulis fitur, sampai deployment. Stack utama: Laravel, PHP, MySQL, JavaScript.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pendidikan-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Pendidikan" />
+</p>
+
+**Informatika** — Universitas Adzkia
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack-0b0b0b?style=for-the-badge&logo=npm&logoColor=00d987" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <picture>
@@ -90,36 +64,9 @@
   </picture>
 </p>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-0b0b0b?style=for-the-badge&logo=react&logoColor=00d987)
-![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&logo=nextdotjs&logoColor=00d987)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0b?style=for-the-badge&logo=typescript&logoColor=00d987)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0b0b0b?style=for-the-badge&logo=tailwindcss&logoColor=00d987)
-![Vue.js](https://img.shields.io/badge/Vue.js-0b0b0b?style=for-the-badge&logo=vuedotjs&logoColor=00d987)
-
-### Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-0b0b0b?style=for-the-badge&logo=laravel&logoColor=00d987)
-![PHP](https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=00d987)
-![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&logo=nodedotjs&logoColor=00d987)
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=00d987)
-![REST API](https://img.shields.io/badge/REST%20API-0b0b0b?style=for-the-badge&logoColor=00d987)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=00d987)
-![MySQL](https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=00d987)
-![Redis](https://img.shields.io/badge/Redis-0b0b0b?style=for-the-badge&logo=redis&logoColor=00d987)
-![Supabase](https://img.shields.io/badge/Supabase-0b0b0b?style=for-the-badge&logo=supabase&logoColor=00d987)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=00d987)
-![Vercel](https://img.shields.io/badge/Vercel-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b0b0b?style=for-the-badge&logo=githubactions&logoColor=00d987)
-
-## Statistik GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistik%20GitHub-0b0b0b?style=for-the-badge&logo=git&logoColor=00d987" alt="Statistik GitHub" />
+</p>
 
 <p align="center">
   <picture>
@@ -142,7 +89,9 @@
   </picture>
 </p>
 
-## Grafik Aktivitas
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafik%20Aktivitas-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Grafik Aktivitas" />
+</p>
 
 <p align="center">
   <picture>
@@ -152,7 +101,9 @@
   </picture>
 </p>
 
-## Proyek Unggulan
+<p align="center">
+  <img src="https://img.shields.io/badge/Proyek%20Unggulan-0b0b0b?style=for-the-badge&logo=stackoverflow&logoColor=00d987" alt="Proyek Unggulan" />
+</p>
 
 | Proyek | Deskripsi | Teknologi | Tautan |
 | :--- | :--- | :--- | :--- |
@@ -168,7 +119,9 @@
 - **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
 - **portfolio-ajo** — `TypeScript` — [Repo](https://github.com/rindangalam/portfolio-ajo)
 
-## Ular Kontribusi
+<p align="center">
+  <img src="https://img.shields.io/badge/Ular%20Kontribusi-0b0b0b?style=for-the-badge&logoColor=00d987" alt="Ular Kontribusi" />
+</p>
 
 <p align="center">
   <picture>
@@ -182,7 +135,9 @@
   <img src="https://komarev.com/ghpvc/?username=rindangalam&color=00d987&style=for-the-badge&label=PENGUNJUNG" alt="pengunjung" />
 </p>
 
-## Mari Berkolaborasi
+<p align="center">
+  <img src="https://img.shields.io/badge/Mari%20Berkolaborasi-0b0b0b?style=for-the-badge&logo=telegram&logoColor=00d987" alt="Mari Berkolaborasi" />
+</p>
 
 Punya proyek atau ide yang ingin diwujudkan? Saya terbuka untuk berdiskusi, belajar bareng, dan mengerjakan proyek bersama.
 
