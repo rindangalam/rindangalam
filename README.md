@@ -45,7 +45,7 @@
 ## Pendidikan
 
 <p align="center">
-  Saya menempuh pendidikan di bidang <b>Informatika di Universitas Adzkia</b> — tempat fondasi dan ruang praktik untuk pengembangan yang saya kerjakan sekarang.
+  Saya telah menyelesaikan pendidikan <b>S1 Informatika di Universitas Adzkia</b> — tempat saya membangun fondasi dan ruang praktik untuk pengembangan yang saya kerjakan sekarang.
 </p>
 
 ## Tech Stack
