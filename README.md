@@ -30,26 +30,55 @@
 
 ## Tentang Saya
 
-Saya seorang software engineer yang percaya cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi yang saya buat adalah hasil dari proses belajar — menguji teknologi baru dan mendokumentasikan perjalanan saya sebagai developer.
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/rindangalam.png" alt="Rindang Alam Nur Muhammad" width="150" />
+      <br/>
+      <sub><b>Rindang Alam Nur Muhammad</b></sub>
+    </td>
+    <td>
+      Saya seorang software engineer yang percaya cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi yang saya buat adalah hasil dari proses belajar — menguji teknologi baru dan mendokumentasikan perjalanan saya sebagai developer.
 
-Saat ini saya fokus pada pengembangan aplikasi web dengan **Laravel, Next.js, dan React**, serta mulai mendalami **AI untuk pengembangan web**.
+      Saat ini saya fokus pada pengembangan aplikasi web dengan <b>Laravel, Next.js, dan React</b>, serta mulai mendalami <b>AI untuk pengembangan web</b>.
+    </td>
+  </tr>
+</table>
 
 ## Pengalaman
 
-### Programmer PSDM IT — Universitas Adzkia
-*Juni 2026 — sekarang*
-
-Mengembangkan dan melakukan maintenance sistem informasi berbasis web untuk kebutuhan digital di lingkungan kampus. Terlibat dalam seluruh siklus kehidupan aplikasi — dari pengumpulan kebutuhan pengguna, desain database, implementasi fitur, pengujian, hingga deployment. Fokus pada pengembangan menggunakan Laravel, PHP, MySQL, JavaScript, dan REST API, termasuk membangun modul baru, mengoptimasi sistem yang berjalan, dan memperbaiki masalah teknis berdasarkan kebutuhan pengguna.
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Juni%202026%20%E2%80%94%20Sekarang-0b0b0b?style=for-the-badge" alt="Juni 2026 - sekarang" />
+    </td>
+    <td>
+      <b>Programmer PSDM IT — Universitas Adzkia</b><br/>
+      Mengembangkan dan melakukan maintenance sistem informasi berbasis web untuk kebutuhan digital di lingkungan kampus. Terlibat dalam seluruh siklus kehidupan aplikasi — dari pengumpulan kebutuhan pengguna, desain database, implementasi fitur, pengujian, hingga deployment. Fokus pada Laravel, PHP, MySQL, JavaScript, dan REST API, termasuk membangun modul baru, mengoptimasi sistem yang berjalan, dan memperbaiki masalah teknis berdasarkan kebutuhan pengguna.
+    </td>
+  </tr>
+</table>
 
 ## Pendidikan
 
-**Informatika** — Universitas Adzkia
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="https://img.shields.io/badge/Informatika-0b0b0b?style=for-the-badge" alt="Informatika" />
+    </td>
+    <td>
+      <b>Universitas Adzkia</b>
+    </td>
+  </tr>
+</table>
 
 ## Saat Ini
 
-- Mendalami **Laravel** untuk pengembangan aplikasi web
-- Mengeksplorasi **Artificial Intelligence** dan bagaimana mengintegrasikannya ke aplikasi web
-- Perhatian dengan desain sistem, arsitektur yang rapih, dan kode yang mudah dipelihara
+<p align="center">
+  <img src="https://img.shields.io/badge/Mendalami%20Laravel-0b0b0b?style=for-the-badge&logo=laravel&logoColor=00d987" alt="Mendalami Laravel" />
+  <img src="https://img.shields.io/badge/Eksplorasi%20AI%20untuk%20Web-0b0b0b?style=for-the-badge&logo=openai&logoColor=00d987" alt="Eksplorasi AI" />
+  <img src="https://img.shields.io/badge/Fokus%20Desain%20Sistem%20%26%20Kode%20Rapih-0b0b0b?style=for-the-badge&logo=codefactor&logoColor=00d987" alt="Fokus desain sistem" />
+</p>
 
 ## Tech Stack
 
@@ -61,12 +90,34 @@ Mengembangkan dan melakukan maintenance sistem informasi berbasis web untuk kebu
   </picture>
 </p>
 
-| Kategori | Teknologi |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vue.js |
-| **Backend** | Laravel/PHP, Node.js, Python, REST API |
-| **Database** | PostgreSQL, MySQL, Redis, Supabase |
-| **DevOps & Tools** | Docker, Vercel, GitHub Actions |
+### Frontend
+
+![React](https://img.shields.io/badge/React-0b0b0b?style=for-the-badge&logo=react&logoColor=00d987)
+![Next.js](https://img.shields.io/badge/Next.js-0b0b0b?style=for-the-badge&logo=nextdotjs&logoColor=00d987)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0b?style=for-the-badge&logo=typescript&logoColor=00d987)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0b0b0b?style=for-the-badge&logo=tailwindcss&logoColor=00d987)
+![Vue.js](https://img.shields.io/badge/Vue.js-0b0b0b?style=for-the-badge&logo=vuedotjs&logoColor=00d987)
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-0b0b0b?style=for-the-badge&logo=laravel&logoColor=00d987)
+![PHP](https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=00d987)
+![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=for-the-badge&logo=nodedotjs&logoColor=00d987)
+![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=00d987)
+![REST API](https://img.shields.io/badge/REST%20API-0b0b0b?style=for-the-badge&logoColor=00d987)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=00d987)
+![MySQL](https://img.shields.io/badge/MySQL-0b0b0b?style=for-the-badge&logo=mysql&logoColor=00d987)
+![Redis](https://img.shields.io/badge/Redis-0b0b0b?style=for-the-badge&logo=redis&logoColor=00d987)
+![Supabase](https://img.shields.io/badge/Supabase-0b0b0b?style=for-the-badge&logo=supabase&logoColor=00d987)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=for-the-badge&logo=docker&logoColor=00d987)
+![Vercel](https://img.shields.io/badge/Vercel-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b0b0b?style=for-the-badge&logo=githubactions&logoColor=00d987)
 
 ## Statistik GitHub
 
