@@ -96,16 +96,16 @@
 | Proyek | Deskripsi | Teknologi | Tautan |
 | :--- | :--- | :--- | :--- |
 | **GIS_Kos_Padang_Random_Forest** | Website sistem informasi kos-kosan di Kota Padang, dibuat tanpa framework; pencarian menggunakan algoritma klasifikasi Random Forest | `PHP` | [Repo](https://github.com/rindangalam/GIS_Kos_Padang_Random_Forest) |
+| **portfolio-ajo** | Website portofolio dibangun di atas Next.js + TypeScript | `Next.js` · `TypeScript` · `Supabase` | [Repo](https://github.com/rindangalam/portfolio-ajo) |
 | **AW Cash** | Aplikasi manajemen keuangan personal berbasis PWA, sengaja dibuat offline-first: semua data tersimpan lokal di IndexedDB tanpa server, dengan fitur backup/restore | `Vite` · `PWA` · `React` | [Repo](https://github.com/rindangalam/aw_cash) · [Demo](https://aw-cash.vercel.app/) |
 | **Todoaw** | Aplikasi todo & produktivitas offline-first: manajemen tugas dengan prioritas P1–P4, kategori & tag, dan pelacak kebiasaan — semuanya tersimpan lokal tanpa perlu internet | `Flutter` · `Dart` | [Repo](https://github.com/rindangalam/todo-aw) |
 | **posgrosir** | Sistem POS grosir offline-first desktop: kasir, produk, stok batch (FIFO), stock opname, promo, laporan harian, backup/restore, dengan dukungan barcode scanner & printer | `React` · `Tauri` · `SQLite` | [Repo](https://github.com/rindangalam/posgrosir) |
-| **Rindang-Alam-Resume** | Website portofolio landing page untuk memperkenalkan diri dan karya | `HTML` | [Repo](https://github.com/rindangalam/Rindang-Alam-Resume) |
+| **OtoRent** | Sistem manajemen rental mobil berbasis web (Laravel 12): katalog kendaraan, booking, pembayaran, manajemen armada, driver, dan jadwal, dengan tiga peran pengguna (Admin, Staff, Customer) | `Laravel` · `PHP` · `Tailwind` | [Repo](https://github.com/rindangalam/OtoRent) |
 
 ### Proyek Lainnya
 
-- **OtoRent** — `Blade` — [Repo](https://github.com/rindangalam/OtoRent)
 - **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
-- **portfolio-ajo** — `TypeScript` — [Repo](https://github.com/rindangalam/portfolio-ajo)
+- **Rindang-Alam-Resume** — `HTML` — [Repo](https://github.com/rindangalam/Rindang-Alam-Resume)
 
 ## Ular Kontribusi
 
