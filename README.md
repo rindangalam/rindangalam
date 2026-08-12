@@ -62,14 +62,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=400&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=400&bg_color=ffffff&title_color=0f8a54&text_color=0c5c3a&icon_color=0f8a54&locale=id" />
-    <img alt="stats" width="400" src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=400&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=420&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=420&bg_color=ffffff&title_color=0f8a54&text_color=0c5c3a&icon_color=0f8a54&locale=id" />
+    <img alt="stats" width="420" src="https://github-readme-stats-xi-sand.vercel.app/api?username=rindangalam&show_icons=true&hide_border=true&rank_icon=percentile&card_width=420&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=donut&hide_border=true&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=donut&hide_border=true&bg_color=ffffff&title_color=0f8a54&text_color=0c5c3a&icon_color=0f8a54&locale=id" />
-    <img alt="top languages" width="330" src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=donut&hide_border=true&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
+    <img alt="top languages" width="420" src="https://github-readme-stats-xi-sand.vercel.app/api/top-langs/?username=rindangalam&layout=donut&hide_border=true&bg_color=0b0f14&title_color=00d987&text_color=9af0c9&icon_color=00d987&locale=id" />
   </picture>
 </p>
 
@@ -77,7 +77,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/profile-3d-contrib/profile-green.svg" />
-    <img alt="3d contribution graph" width="420" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/profile-3d-contrib/profile-green.svg" />
+    <img alt="3d contribution graph" width="900" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/profile-3d-contrib/profile-green.svg" />
   </picture>
 </p>
 
