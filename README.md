@@ -35,7 +35,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Claravel%2Cphp%2Cpython%2Cmysql%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=dark&perline=16" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Claravel%2Cphp%2Cpython%2Cmysql%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=light&perline=16" />
-    <img alt="tech stack" width="704" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Claravel%2Cphp%2Cpython%2Cmysql%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=dark&perline=16" />
+    <img alt="tech stack" width="736" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctypescript%2Ctailwind%2Cvue%2Cnodejs%2Claravel%2Cphp%2Cpython%2Cmysql%2Cpostgres%2Credis%2Csupabase%2Cdocker%2Cvercel%2Cgithubactions&theme=dark&perline=16" />
   </picture>
 </p>
 
