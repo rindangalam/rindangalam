@@ -1,10 +1,6 @@
 <!-- profile-readme v6 -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
-    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d987&height=120&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=28&fontColor=0b0b0b&fontAlignY=50&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
