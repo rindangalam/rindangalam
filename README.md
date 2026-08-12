@@ -6,10 +6,17 @@
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=for-the-badge&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
+  <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=flat&logo=github&logoColor=00d987" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rindang-alam-nur-muhammad-31183a27a/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=flat&logo=linkedin&logoColor=00d987" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/aj04lam"><img src="https://img.shields.io/badge/Instagram-0b0b0b?style=flat&logo=instagram&logoColor=00d987" alt="Instagram" /></a>
+  <a href="mailto:rindangalam04@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0b?style=flat&logo=gmail&logoColor=00d987" alt="Email" /></a>
+  <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=flat&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=flat&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
+</p>
+
 
 <p align="center">
   Saya sedang dalam perjalanan menjadi software engineer — sebuah proses yang saya jalani dengan cara membangun. Prinsip saya sederhana: cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi di profil ini adalah eksperimen pribadi; sebagian saya pakai sendiri, sebagian sekadar untuk belajar.
