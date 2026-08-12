@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-light.svg" />
-  <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" width="520" />
+  <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" style="width:100%;height:auto" />
 </picture>
 
 <p align="center">
