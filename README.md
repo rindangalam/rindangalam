@@ -1,9 +1,9 @@
 <!-- profile-readme v6 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=0f8a54&fontWeight=bold&borderWidth=0" />
-    <img alt="typing" src="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=0f8a54&fontWeight=bold&borderWidth=0" />
+    <img alt="typing" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
   </picture>
 </p>
 
