@@ -5,17 +5,20 @@
   <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" style="width:100%;height:auto" />
 </picture>
 
-<p align="center">
-  <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=flat&logo=github&logoColor=00d987" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rindang-alam-nur-muhammad-31183a27a/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=flat&logo=linkedin&logoColor=00d987" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/aj04lam"><img src="https://img.shields.io/badge/Instagram-0b0b0b?style=flat&logo=instagram&logoColor=00d987" alt="Instagram" /></a>
-  <a href="mailto:rindangalam04@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0b?style=flat&logo=gmail&logoColor=00d987" alt="Email" /></a>
-  <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=flat&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=flat&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
-</p>
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=flat&logo=github&logoColor=00d987" alt="GitHub" /></a>
+      <a href="https://www.linkedin.com/in/rindang-alam-nur-muhammad-31183a27a/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=flat&logo=linkedin&logoColor=00d987" alt="LinkedIn" /></a>
+      <a href="https://instagram.com/aj04lam"><img src="https://img.shields.io/badge/Instagram-0b0b0b?style=flat&logo=instagram&logoColor=00d987" alt="Instagram" /></a>
+      <a href="mailto:rindangalam04@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0b?style=flat&logo=gmail&logoColor=00d987" alt="Email" /></a>
+      <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=flat&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
+    </td>
+    <td align="right" width="50%">
+      <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=flat&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
