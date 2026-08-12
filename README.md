@@ -1,11 +1,9 @@
 <!-- profile-readme v6 -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-light.svg" />
-    <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" width="700" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-light.svg" />
+  <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" width="520" />
+</picture>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=for-the-badge&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
