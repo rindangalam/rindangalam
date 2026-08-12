@@ -11,21 +11,15 @@
 
 ---
 
-## Tentang Saya
-
 <p align="center">
   Saya sedang dalam perjalanan menjadi software engineer — sebuah proses yang saya jalani dengan cara membangun. Prinsip saya sederhana: cara terbaik memahami sebuah teknologi adalah dengan menggunakannya langsung di proyek nyata. Karena itu, hampir semua aplikasi di profil ini adalah eksperimen pribadi; sebagian saya pakai sendiri, sebagian sekadar untuk belajar.
   <br/><br/>
   Belakangan ini saya banyak berkutat dengan <b>Laravel, Next.js, React, dan TypeScript</b>, dan mulai belajar menggabungkan <b>Artificial Intelligence</b> dengan pengembangan web. Saya juga tertarik pada bagaimana sebuah sistem dirancang — bagaimana setiap bagian saling terhubung, dan bagaimana aplikasi tetap mudah dipelihara seiring kebutuhan yang terus bertambah.
 </p>
 
-## Pengalaman
-
 <p align="center">
   Sejak Juni 2026, saya bekerja sebagai <b>Programmer PSDM IT di Universitas Adzkia</b>
 </p>
-
-## Pendidikan
 
 <p align="center">
   Saya telah menyelesaikan pendidikan <b>S1 Informatika di Universitas Adzkia</b> — tempat saya membangun fondasi dan ruang praktik untuk pengembangan yang saya kerjakan sekarang.
