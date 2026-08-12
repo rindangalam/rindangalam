@@ -24,7 +24,7 @@
 ## Pengalaman
 
 <p align="center">
-  Sejak Juni 2026, saya bekerja sebagai <b>Programmer PSDM IT di Universitas Adzkia</b>, mengembangkan dan memelihara sistem informasi berbasis web untuk kebutuhan digital kampus. Saya menangani prosesnya dari awal sampai akhir — pengumpulan kebutuhan pengguna, perancangan database, implementasi fitur, pengujian, hingga deployment — menggunakan <b>Laravel, PHP, MySQL, JavaScript, dan REST API</b>. Termasuk membangun modul baru, mengoptimasi sistem yang berjalan, dan memperbaiki masalah teknis berdasarkan kebutuhan pengguna.
+  Sejak Juni 2026, saya bekerja sebagai <b>Programmer PSDM IT di Universitas Adzkia</b>
 </p>
 
 ## Pendidikan
