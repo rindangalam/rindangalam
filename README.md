@@ -1,9 +1,9 @@
 <!-- profile-readme v6 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
-    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-light.svg" />
+    <img alt="Rindang Alam Nur Muhammad — Laravel, Next.js, React" src="https://raw.githubusercontent.com/rindangalam/rindangalam/main/assets/banner-terminal-dark.svg" width="700" />
   </picture>
 </p>
 
