@@ -33,6 +33,24 @@
   Saya telah menyelesaikan pendidikan <b>S1 Informatika di Universitas Adzkia</b> — tempat saya membangun fondasi dan ruang praktik untuk pengembangan yang saya kerjakan sekarang.
 </p>
 
+
+## Proyek Unggulan
+
+| Proyek | Deskripsi | Teknologi | Tautan |
+| :--- | :--- | :--- | :--- |
+| **GIS_Kos_Padang_Random_Forest** | Website sistem informasi kos-kosan di Kota Padang, dibuat tanpa framework; pencarian menggunakan algoritma klasifikasi Random Forest | `PHP` | [Repo](https://github.com/rindangalam/GIS_Kos_Padang_Random_Forest) |
+| **portfolio-ajo** | Website portofolio dibangun di atas Next.js + TypeScript | `Next.js` · `TypeScript` · `Supabase` | [Repo](https://github.com/rindangalam/portfolio-ajo) · [Demo](https://portfolio-ajo.vercel.app/) |
+| **AW Cash** | Aplikasi manajemen keuangan personal berbasis PWA, sengaja dibuat offline-first: semua data tersimpan lokal di IndexedDB tanpa server, dengan fitur backup/restore | `Vite` · `PWA` · `React` | [Repo](https://github.com/rindangalam/aw_cash) · [Demo](https://aw-cash.vercel.app/) |
+| **Todoaw** | Aplikasi todo & produktivitas offline-first: manajemen tugas dengan prioritas P1–P4, kategori & tag, dan pelacak kebiasaan — semuanya tersimpan lokal tanpa perlu internet | `Flutter` · `Dart` | [Repo](https://github.com/rindangalam/todo-aw) · [Demo](https://todo-aw.vercel.app/) |
+| **posgrosir** | Sistem POS grosir offline-first desktop: kasir, produk, stok batch (FIFO), stock opname, promo, laporan harian, backup/restore, dengan dukungan barcode scanner & printer | `React` · `Tauri` · `SQLite` | [Repo](https://github.com/rindangalam/posgrosir) |
+| **OtoRent** | Sistem manajemen rental mobil berbasis web (Laravel 12): katalog kendaraan, booking, pembayaran, manajemen armada, driver, dan jadwal, dengan tiga peran pengguna (Admin, Staff, Customer) | `Laravel` · `PHP` · `Tailwind` | [Repo](https://github.com/rindangalam/OtoRent) · [Demo](https://oto-rent.vercel.app/) |
+
+### Proyek Lainnya
+
+- **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
+- **Rindang-Alam-Resume** — `HTML` — [Repo](https://github.com/rindangalam/Rindang-Alam-Resume)
+
+
 ## Tech Stack
 
 <p align="center">
@@ -76,21 +94,6 @@
   </picture>
 </p>
 
-## Proyek Unggulan
-
-| Proyek | Deskripsi | Teknologi | Tautan |
-| :--- | :--- | :--- | :--- |
-| **GIS_Kos_Padang_Random_Forest** | Website sistem informasi kos-kosan di Kota Padang, dibuat tanpa framework; pencarian menggunakan algoritma klasifikasi Random Forest | `PHP` | [Repo](https://github.com/rindangalam/GIS_Kos_Padang_Random_Forest) |
-| **portfolio-ajo** | Website portofolio dibangun di atas Next.js + TypeScript | `Next.js` · `TypeScript` · `Supabase` | [Repo](https://github.com/rindangalam/portfolio-ajo) · [Demo](https://portfolio-ajo.vercel.app/) |
-| **AW Cash** | Aplikasi manajemen keuangan personal berbasis PWA, sengaja dibuat offline-first: semua data tersimpan lokal di IndexedDB tanpa server, dengan fitur backup/restore | `Vite` · `PWA` · `React` | [Repo](https://github.com/rindangalam/aw_cash) · [Demo](https://aw-cash.vercel.app/) |
-| **Todoaw** | Aplikasi todo & produktivitas offline-first: manajemen tugas dengan prioritas P1–P4, kategori & tag, dan pelacak kebiasaan — semuanya tersimpan lokal tanpa perlu internet | `Flutter` · `Dart` | [Repo](https://github.com/rindangalam/todo-aw) · [Demo](https://todo-aw.vercel.app/) |
-| **posgrosir** | Sistem POS grosir offline-first desktop: kasir, produk, stok batch (FIFO), stock opname, promo, laporan harian, backup/restore, dengan dukungan barcode scanner & printer | `React` · `Tauri` · `SQLite` | [Repo](https://github.com/rindangalam/posgrosir) |
-| **OtoRent** | Sistem manajemen rental mobil berbasis web (Laravel 12): katalog kendaraan, booking, pembayaran, manajemen armada, driver, dan jadwal, dengan tiga peran pengguna (Admin, Staff, Customer) | `Laravel` · `PHP` · `Tailwind` | [Repo](https://github.com/rindangalam/OtoRent) · [Demo](https://oto-rent.vercel.app/) |
-
-### Proyek Lainnya
-
-- **crypto-dashboard** — `Blade` — [Repo](https://github.com/rindangalam/crypto-dashboard)
-- **Rindang-Alam-Resume** — `HTML` — [Repo](https://github.com/rindangalam/Rindang-Alam-Resume)
 
 ## Ular Kontribusi
 
