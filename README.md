@@ -1,6 +1,10 @@
 <!-- profile-readme v6 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d987&height=120&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=28&fontColor=0b0b0b&fontAlignY=50&animation=twinkling" alt="header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=0f8a54&fontWeight=bold&borderWidth=0" />
+    <img alt="typing" src="https://svg-banners.vercel.app/api?type=typeWriter&text=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
+  </picture>
 </p>
 
 <p align="center">
