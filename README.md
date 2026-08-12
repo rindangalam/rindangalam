@@ -1,9 +1,9 @@
 <!-- profile-readme v6 -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=0f8a54&fontWeight=bold&borderWidth=0" />
-    <img alt="typing" src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Rindang%20Alam%20Nur%20Muhammad%20%E2%80%A2%20Laravel%20%26%20Next.js&width=700&height=120&textColor=00d987&fontWeight=bold&borderWidth=0" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
+    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Rindang%20Alam%20Nur%20Muhammad;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
   </picture>
 </p>
 
