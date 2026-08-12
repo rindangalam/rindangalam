@@ -1,32 +1,17 @@
 <!-- profile-readme v6 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d987&height=220&section=header&text=Rindang%20Alam%20Nur%20Muhammad&fontSize=34&fontColor=0b0b0b&fontAlignY=45&animation=twinkling" alt="header" />
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
-    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React;Padang%20Pariaman%2C%20Indonesia" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=0f8a54&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
+    <img alt="typing" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2600&pause=900&color=00d987&center=true&vCenter=true&width=640&lines=Software%20Engineer;Laravel%20%E2%80%A2%20Next.js%20%E2%80%A2%20React" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Berbasis%20Di%20Padang%20Pariaman%2C%20Indonesia-0b0b0b?style=for-the-badge&logo=googlemaps&logoColor=00d987" alt="lokasi" />
-  <img src="https://img.shields.io/badge/Tersedia%20Untuk%20Freelance-0b0b0b?style=for-the-badge&logo=briefcase&logoColor=00d987" alt="tersedia untuk freelance" />
+  <img src="https://img.shields.io/badge/Padang%20Pariaman%2C%20Indonesia%20%E2%80%A2%20Tersedia%20Untuk%20Freelance-0b0b0b?style=for-the-badge&logo=briefcase&logoColor=00d987" alt="lokasi & status" />
 </p>
 
 ---
-
-## Hubungi Saya
-
-<p align="center">
-  <a href="https://github.com/rindangalam"><img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=00d987" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/rindang-alam-nur-muhammad-31183a27a/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=00d987" alt="LinkedIn" /></a>
-  <a href="mailto:rindangalam04@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0b?style=for-the-badge&logo=gmail&logoColor=00d987" alt="Email" /></a>
-  <a href="https://instagram.com/aj04lam"><img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=00d987" alt="Instagram" /></a>
-  <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
-</p>
 
 ## Tentang Saya
 
@@ -128,6 +113,7 @@ Punya proyek atau ide yang ingin diwujudkan? Saya terbuka untuk berdiskusi, bela
 <p align="center">
   <a href="mailto:rindangalam04@gmail.com"><img src="https://img.shields.io/badge/Hubungi%20Saya-0b0b0b?style=for-the-badge&logo=gmail&logoColor=00d987" alt="Hubungi Saya" /></a>
   <a href="https://www.linkedin.com/in/rindang-alam-nur-muhammad-31183a27a/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=00d987" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/aj04lam"><img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=00d987" alt="Instagram" /></a>
   <a href="https://portfolio-rindang-alam.vercel.app/"><img src="https://img.shields.io/badge/Portofolio-0b0b0b?style=for-the-badge&logo=vercel&logoColor=00d987" alt="Portofolio" /></a>
 </p>
 
